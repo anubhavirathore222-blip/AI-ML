@@ -73,7 +73,7 @@ A scatter plot comparing actual vs predicted study hours is saved to results_plo
 
 
 OUTPUT SCREEN- 
-![OUTPUT SCREEN WITH GIVEN MAE AND R VALUE](ouput ss.png)
+![OUTPUT SCREEN WITH GIVEN MAE AND R VALUE](OUTPUT-SCREEN.png)
 ---
 
 ##  Tech Stack
@@ -92,7 +92,7 @@ Python · pandas · numpy · scikit-learn · matplotlib · seaborn
 
 ##  Author
 
-**Anubhavi Rathore** — Integrated MTech AI, 25MIM10018, VIT BHOPAL UNIVERSITY 
-GitHub: (https://github.com/anubhavirathore222-blip)
+**ANUBHAVI RATHORE** — Integrated MTech AI, 25MIM10018, VIT BHOPAL UNIVERSITY 
+GitHub: (https://github.com/Ayushh-00)
 
 *Submitted on VITyarthi | Machine Learning / AI Course — BYOP Capstone*
