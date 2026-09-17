@@ -3,7 +3,7 @@
 
 **Name:** **Anubhavi Rathore** | **Reg No:** 25MIM10018 | **Branch:** Integrated MTech AI
 
-**GitHub:** https://github.com/Ayushh-00/AI-ML.git
+**GitHub:** https://github.com/anubhavirathore222-blip
 
 ---
 
