@@ -73,8 +73,7 @@ A scatter plot comparing actual vs predicted study hours is saved to results_plo
 
 
 OUTPUT SCREEN- 
-![OUTPUT SCREEN WITH GIVEN MAE AND R VALUE](OUTPUT-SCREEN.png)
----
+ouput ss.png
 
 ##  Tech Stack
 
