@@ -90,6 +90,6 @@ Python · pandas · numpy · scikit-learn · matplotlib · seaborn
 ##  Author
 
 **ANUBHAVI RATHORE** — Integrated MTech AI, 25MIM10018, VIT BHOPAL UNIVERSITY 
-GitHub: (https://github.com/Ayushh-00)
+GitHub: (https://github.com/anubhavirathore222-blip)
 
 *Submitted on VITyarthi | Machine Learning / AI Course — BYOP Capstone*
