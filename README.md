@@ -72,8 +72,6 @@ A scatter plot comparing actual vs predicted study hours is saved to results_plo
 ![results_plot.png](results_plot.png) <br>
 
 
-OUTPUT SCREEN- 
-ouput ss.png
 
 ##  Tech Stack
 
